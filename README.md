@@ -1,7 +1,7 @@
 # Belly Button Biodiversity
 
 ## Overview
-Using Plotly we created a dashboard to identify the 10 bacterial species found in the belly buttons of volunteers.
+Using Plotly we created a dashboard to identify the top 10 bacterial species found in the belly buttons of volunteers.
 
 ### Horizontal Bar Chart
 <img width="610" alt="Bar_graph_belly_button" src="https://user-images.githubusercontent.com/60076980/158911061-9c79c763-266c-4091-bd12-78772d53184a.png">
